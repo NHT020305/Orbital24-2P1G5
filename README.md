@@ -25,6 +25,7 @@ A website emulating the RtMO's format for students to self-organize online and o
 ## Tech Stack (used up to Milestone 1)
 1. HTML
 2. CSS
+3. JavaScript
 
 ## Development Plan
 **Vacation Week 1**: Preparation for Orbital Lift-off
