@@ -2,12 +2,9 @@ body {
   margin-bottom: 8rem;
 }
 
-.word {
-  top: -28rem;
-}
-
 #answer-record {
   margin-top: 5rem;
+  margin-left: 2.5rem;
 }
 
 #player-score-warmup-technician {
